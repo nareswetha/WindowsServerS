@@ -1,0 +1,1 @@
+Write-Output "Hello, welcome to the world of powershell"
